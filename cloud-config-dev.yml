@@ -1,17 +1,2 @@
-spring:
-  application:
-    name: config-server
-  cloud:
-    consul:
-      host: 127.0.0.1
-      port: 8899
-    config:
-      server:
-        git:
-          uri: https://github.com/BBBBigFlyPig/SpringConfigServer-Configs.git
-     
-     
-     
-     
-     
+name: test     
 age: 25
