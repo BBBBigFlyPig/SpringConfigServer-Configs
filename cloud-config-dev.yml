@@ -1,2 +1,4 @@
+server:
+  port: 8888
 name: test     
 age: 300
